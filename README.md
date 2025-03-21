@@ -1,5 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Priyanshu%20Dev&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55"/>
 
+<!-- VISIT COUNTER -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshudevs&color=6A5ACD&style=flat" alt="Profile Views"/>
+</div>
+
 <!-- SOCIAL LINKS (CENTERED) -->
 <div align="center">
   <a href="https://github.com/priyanshudevs" target="_blank"><img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
