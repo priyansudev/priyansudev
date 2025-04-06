@@ -55,6 +55,17 @@ const developer = {
   <img src="https://img.shields.io/badge/VS_Code-6A5ACD?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
+
+<!-- LEETCODE STATS -->
+LeetCode Stats
+<div align="left">
+ <h2 align="left">LeetCode Stats</h2>
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/priyanshudev?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
+</div>
+</div>
+
+
 <!-- LANGUAGES -->
 ## Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudevs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
