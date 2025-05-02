@@ -57,7 +57,6 @@ const developer = {
 
 
 <!-- LEETCODE STATS -->
-LeetCode Stats
 <div align="left">
  <h2 align="left">LeetCode Stats</h2>
 <div align="left">
