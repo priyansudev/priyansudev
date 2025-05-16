@@ -7,7 +7,7 @@
 
 <!-- SOCIAL LINKS (CENTERED) -->
 <div align="center">
-  <a href="https://github.com/prd3v" target="_blank"><img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/priyansudev" target="_blank"><img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/priyanshudev1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/prd3v" target="_blank"><img src="https://img.shields.io/badge/-Twitter-6A5ACD?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </div>
@@ -26,7 +26,7 @@ const developer = {
 
 <!-- GITHUB STATS -->
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=prd3v&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
 <!-- TECH STACK -->
 ## Tech Stack
