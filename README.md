@@ -17,11 +17,12 @@
 ```javascript
 const developer = {
   name: "Priyanshu Dev",
-  title: "Full Stack Developer",
-  location: "Your Location",
-  stack: "MERN | Python | Cloud",
-  learning: "Advanced System Design"
+  title: "AI/ML Engineer",
+  location: "India",
+  stack: "Python | TensorFlow | PyTorch | Cloud",
+  learning: "Advanced Deep Learning & MLOps"
 };
+
 ```
 
 <!-- GITHUB STATS -->
