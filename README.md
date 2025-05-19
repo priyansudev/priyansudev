@@ -68,6 +68,6 @@ const developer = {
 
 <!-- LANGUAGES -->
 ## Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prd3v&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer&animation=fadeIn&reversal=true"/>
