@@ -62,19 +62,23 @@ const developer = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=ffffff&icon_color=6A5ACD&border_radius=10" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=ffffff&border_radius=10" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyansudev&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6A5ACD&ring=6A5ACD&fire=ff6b6b&currStreakLabel=6A5ACD&sideNums=ffffff&currStreakNum=ffffff&dates=a9b1d6&sideLabels=a9b1d6&border_radius=10" alt="GitHub Streak"/>
-</div>
+<table>
+  <tr>
+    <td>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=ffffff&icon_color=6A5ACD&border_radius=10" alt="GitHub Stats"/>
+    </td>
+    <td>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=ffffff&border_radius=10" alt="Top Languages"/>
+    </td>
+      <td>
+       <img src="https://github-readme-streak-stats.herokuapp.com?user=priyansudev&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6A5ACD&ring=6A5ACD&fire=ff6b6b&currStreakLabel=6A5ACD&sideNums=ffffff&currStreakNum=ffffff&dates=a9b1d6&sideLabels=a9b1d6&border_radius=10" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansudev&bg_color=1a1b27&color=6A5ACD&line=6A5ACD&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=10" alt="Contribution Graph"/>
-</div>
+
+
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -136,7 +140,7 @@ const developer = {
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Coding Challenges
 
-<div align="center">
+<div align="left">
   <h3>🧠 LeetCode Journey</h3>
   <img src="https://leetcard.jacoblin.cool/priyanshudev?theme=dark&font=Roboto&ext=heatmap&width=600" alt="LeetCode Stats" />
 </div>
@@ -147,7 +151,7 @@ const developer = {
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Random Dev Quote
 
-<div align="center">
+<div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=1a1b27&color=6A5ACD&border_color=6A5ACD" alt="Random Dev Quote"/>
 </div>
 
