@@ -62,7 +62,7 @@ const developer = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=ffffff&icon_color=6A5ACD&border_radius=10" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=ffffff&border_radius=10" alt="Top Languages"/>
 </div>
@@ -165,10 +165,7 @@ const developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=priyansudev&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</div>
+
 
 <!-- FOOTER WITH ENHANCED WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,8,16,30&height=150&section=footer&animation=twinkling&reversal=true"/>
@@ -176,5 +173,4 @@ const developer = {
 <div align="center">
   <b>⭐ From <a href="https://github.com/priyansudev">priyansudev</a> with 💜</b>
   <br>
-  <i>"Code is poetry written in logic"</i>
 </div>
