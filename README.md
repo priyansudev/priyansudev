@@ -24,7 +24,7 @@
   <a href="https://twitter.com/priyansudev" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-6A5ACD?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1b27" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:priyanshudev037@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email"/>
   </a>
 </div>
