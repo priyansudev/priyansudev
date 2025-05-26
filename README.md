@@ -64,7 +64,7 @@ const developer = {
 <!-- LEETCODE STATS -->
 ## LeetCode Stats
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/priyanshudev?theme=dark&font=Roboto&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
+ <img src="https://leetcard.jacoblin.cool/priyanshudev?theme=dark&font=Roboto&ext=heatmap&border=0&radius=10&bg_color=000000" alt="LeetCode Stats" />
 </div>
 
 <!-- LANGUAGES -->
