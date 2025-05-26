@@ -75,4 +75,8 @@ const developer = {
 ## Coding Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansudev&theme=dark&background=0d1117&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
+## Feel Free to Reach Out on Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/851812658356813824)](https://discord.com/users/851812658356813824)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn&reversal=true"/>
