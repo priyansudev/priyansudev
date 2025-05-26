@@ -77,6 +77,6 @@ const developer = {
 
 ## Feel Free to Reach Out on Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/851812658356813824)](https://discord.com/users/851812658356813824)
+[![Discord Presence](https://lanyard.cnrad.dev/api/851812658356813824?bg=000000&borderRadius=10)](https://discord.com/users/851812658356813824)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn&reversal=true"/>
