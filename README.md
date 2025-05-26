@@ -30,6 +30,7 @@ const developer = {
 <img src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=c9d1d9" alt="GitHub Stats"/>
 </div>
 <!-- TECH STACK -->
+
 ## Tech Stack
 
 ### Frontend & Design
