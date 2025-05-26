@@ -26,8 +26,9 @@ const developer = {
 
 <!-- GITHUB STATS -->
 ## GitHub Stats
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=c9d1d9" alt="GitHub Stats"/>
-
+</div>
 <!-- TECH STACK -->
 ## Tech Stack
 
@@ -63,17 +64,23 @@ const developer = {
 
 <!-- LEETCODE STATS -->
 ## LeetCode Stats
-<div align="left">
+<div align="center">
  <img src="https://leetcard.jacoblin.cool/priyanshudev?theme=dark&font=Roboto&ext=heatmap&border=0&radius=10&bg_color=000000" alt="LeetCode Stats" />
 </div>
 
 <!-- LANGUAGES -->
 ## Languages
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudev&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=c9d1d9" alt="Top Languages"/>
+</div>
 
 <!-- STREAK STATS -->
 ## Coding Streak
+
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansudev&theme=dark&background=0d1117&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</div>
 
 ## Feel Free to Reach Out on Discord
 
