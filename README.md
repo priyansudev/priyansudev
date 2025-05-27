@@ -18,8 +18,8 @@
 const developer = {
   name: "Priyanshu Dev",
   title: "AI & ML Engineer",
-  location: "Your Location",
-  stack: "MERN | Python | Cloud",
+  location: "India",
+  stack: "MERN | Python | DSA",
   learning: "Advanced System Design"
 };
 ```
