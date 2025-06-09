@@ -87,4 +87,9 @@ const developer = {
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/851812658356813824?bg=000000&borderRadius=10)](https://discord.com/users/851812658356813824)
 
+<!-- BUY ME A COFFEE -->
+<div align="center">
+  <a href="https://www.buymeacoffee.com/priyanshudev" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/></a>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn&reversal=true"/>
