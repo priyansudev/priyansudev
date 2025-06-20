@@ -26,7 +26,7 @@
 
 ---
 
-## 🌐 CONNECT & COLLABORATE
+## CONNECT & COLLABORATE
 
 <div align="center">
 <table>
@@ -64,7 +64,7 @@
 
 ---
 
-## ⚡ TECHNOLOGY STACK
+## TECHNOLOGY STACK
 
 <div align="center">
 <table>
@@ -113,7 +113,7 @@
 
 ---
 
-## 📊 PERFORMANCE METRICS
+## PERFORMANCE METRICS
 
 <div align="center">
 <table>
@@ -138,7 +138,7 @@
 
 ---
 
-## 🏆 COMPETITIVE PROGRAMMING ACHIEVEMENTS
+## COMPETITIVE PROGRAMMING ACHIEVEMENTS
 
 <div align="center">
 <table>
@@ -167,14 +167,14 @@
 
 ---
 
-## 🚀 CURRENT INITIATIVES
+## CURRENT INITIATIVES
 
 <div align="center">
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🔭 BUILDING
+### BUILDING
 ```
 • Scalable Web Applications
 • Microservices Architecture  
@@ -185,7 +185,7 @@
 </td>
 <td width="33%" align="center">
 
-### 🌱 LEARNING
+### LEARNING
 ```
 • Advanced System Design
 • Cloud Native Technologies
@@ -196,7 +196,7 @@
 </td>
 <td width="33%" align="center">
 
-### 🏅 COMPETING
+### COMPETING
 ```
 • Weekly Contest Participation
 • Algorithm Optimization
@@ -211,7 +211,7 @@
 
 ---
 
-## 💼 COLLABORATION OPPORTUNITIES
+## COLLABORATION OPPORTUNITIES
 
 <div align="center">
 
@@ -227,7 +227,7 @@
 
 ---
 
-## ☕ SUPPORT MY WORK
+## SUPPORT MY WORK
 
 <div align="center">
 
@@ -235,9 +235,9 @@
 
 ### Your Support Enables
 ```
-🔬 Research & Development    📚 Learning New Technologies
-🛠️ Open Source Projects     🎯 Community Contributions
-📝 Technical Content         🚀 Innovation & Experiments
+ Research & Development     Learning New Technologies
+ Open Source Projects      Community Contributions
+ Technical Content          Innovation & Experiments
 ```
 
 </div>
