@@ -31,6 +31,32 @@ I'm a passionate software engineer with expertise in full-stack development and 
   </a>
 </div>
 
+## 💻 Competitive Programming Profiles
+
+<div align="center">
+  <a href="https://leetcode.com/priyanshudev" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/priyanshudev" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/priyanshudev1" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://atcoder.jp/users/priyanshudev" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+  </a>
+  <a href="https://www.hackerearth.com/@priyanshudev" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-2C3E50?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/priyanshudev" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://stackoverflow.com/users/priyanshu-dev" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+</div>
+
 ## 🛠️ Technical Skills
 
 ### Frontend Development
@@ -75,7 +101,7 @@ I'm a passionate software engineer with expertise in full-stack development and 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansudev&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=priyansudev&theme=default&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 Coding Achievements
@@ -84,10 +110,16 @@ I'm a passionate software engineer with expertise in full-stack development and 
   <img src="https://leetcard.jacoblin.cool/priyanshudev?theme=light&font=source_code_pro&ext=contest" alt="LeetCode Stats"/>
 </div>
 
+### Competitive Programming Stats
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=priyanshudev&theme=default&disable_animations=false&show_icons=true&force_username=true&ring_color=2F81F7" alt="Codeforces Stats"/>
+</div>
+
 ## 💼 What I'm Working On
 
 - 🔭 Building scalable web applications with modern technologies
 - 🌱 Exploring advanced system design patterns
+- 🏅 Actively participating in competitive programming contests
 - 👯 Open to collaborating on innovative projects
 - 💬 Always eager to discuss technology, algorithms, and software architecture
 - ⚡ Fun fact: I believe the best code is the one that solves real problems elegantly
