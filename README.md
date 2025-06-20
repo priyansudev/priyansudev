@@ -23,27 +23,6 @@
 
 ---
 
-## 🎯 PROFESSIONAL SUMMARY
-
-<div align="center">
-<table>
-<tr>
-<td width="100%" align="center">
-
-**EXPERTISE**
-```
-• Full-Stack Architecture
-• System Design & Scalability  
-• Data Structures & Algorithms
-• Machine Learning Integration
-• Cloud Infrastructure (AWS)
-• Competitive Programming
-```
-
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
