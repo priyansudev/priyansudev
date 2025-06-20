@@ -11,11 +11,11 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=priyansudev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 ![GitHub followers](https://img.shields.io/github/followers/priyansudev?color=black&style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS)
 ![GitHub stars](https://img.shields.io/github/stars/priyansudev?color=white&style=for-the-badge&logo=star&logoColor=black&label=STARS)
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshudevs&color=black&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=priyansudev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_OPPORTUNITIES-black?style=for-the-badge&logo=circle&logoColor=white)
 ![Focus](https://img.shields.io/badge/FOCUS-FULL_STACK_DEVELOPMENT-white?style=for-the-badge&logo=target&logoColor=black)
 
