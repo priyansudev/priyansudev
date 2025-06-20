@@ -1,155 +1,278 @@
-# Priyanshu Dev
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-</div>
 
-## 👋 About Me
+# PRIYANSHU DEV
+### SOFTWARE ENGINEER • FULL-STACK DEVELOPER • PROBLEM SOLVER
 
-I'm a passionate software engineer with expertise in full-stack development and a strong foundation in data structures and algorithms. I enjoy crafting efficient solutions and building scalable applications that make a difference.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&lines=Building+Digital+Experiences;Crafting+Elegant+Solutions;Solving+Complex+Problems;Innovating+Through+Code" alt="Dynamic Typing"/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshudevs&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-green?style=flat-square" alt="Status"/>
-</div>
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/priyansudev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/priyanshudev1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/priyansudev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://discord.com/users/851812658356813824" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
-
-## 💻 Competitive Programming Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/priyanshudev" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://codeforces.com/profile/priyanshudev" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.codechef.com/users/priyanshudev1" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://atcoder.jp/users/priyanshudev" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
-  </a>
-  <a href="https://www.hackerearth.com/@priyanshudev" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-2C3E50?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/priyanshudev" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://stackoverflow.com/users/priyanshu-dev" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-</div>
-
-## 🛠️ Technical Skills
-
-### Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-### Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</p>
-
-### Machine Learning & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-### Databases & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudev&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=priyansudev&theme=default&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-## 🏆 Coding Achievements
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/priyanshudev?theme=light&font=source_code_pro&ext=contest" alt="LeetCode Stats"/>
-</div>
-
-### Competitive Programming Stats
-<div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=priyanshudev&theme=default&disable_animations=false&show_icons=true&force_username=true&ring_color=2F81F7" alt="Codeforces Stats"/>
-</div>
-
-## 💼 What I'm Working On
-
-- 🔭 Building scalable web applications with modern technologies
-- 🌱 Exploring advanced system design patterns
-- 🏅 Actively participating in competitive programming contests
-- 👯 Open to collaborating on innovative projects
-- 💬 Always eager to discuss technology, algorithms, and software architecture
-- ⚡ Fun fact: I believe the best code is the one that solves real problems elegantly
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansudev&theme=github-compact&hide_border=true" alt="Activity Graph"/>
-</div>
-
-## 💡 Featured Projects
-
-I'm constantly working on exciting projects that showcase my skills and creativity. Check out my repositories to see what I've been building lately!
-
-## 🤝 Let's Collaborate
-
-I'm always interested in working on challenging projects and learning from fellow developers. Whether you have an exciting opportunity, want to discuss technology, or need help with a project, feel free to reach out!
-
-## ☕ Support My Work
-
-If you find my projects helpful or interesting, consider supporting my work:
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/priyanshudev" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/priyansudev">Priyanshu Dev</a> - Building the future, one line of code at a time</i>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=priyansudev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/priyansudev?color=black&style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/priyansudev?color=white&style=for-the-badge&logo=star&logoColor=black&label=STARS)
+
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshudevs&color=black&style=for-the-badge&label=VISITORS)
+![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_OPPORTUNITIES-black?style=for-the-badge&logo=circle&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-FULL_STACK_DEVELOPMENT-white?style=for-the-badge&logo=target&logoColor=black)
+
+</div>
+
+---
+
+## 🎯 PROFESSIONAL SUMMARY
+
+<div align="center">
+<table>
+<tr>
+<td width="100%" align="center">
+
+**EXPERTISE**
+```
+• Full-Stack Architecture
+• System Design & Scalability  
+• Data Structures & Algorithms
+• Machine Learning Integration
+• Cloud Infrastructure (AWS)
+• Competitive Programming
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🌐 CONNECT & COLLABORATE
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+### Professional Networks
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/priyansudev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/priyanshudev1)
+[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/priyansudev)
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/851812658356813824)
+
+</td>
+<td width="50%" align="center">
+
+### Competitive Programming Arsenal
+[![LeetCode](https://img.shields.io/badge/LEETCODE-white?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=white)](https://leetcode.com/priyanshudev)
+[![Codeforces](https://img.shields.io/badge/CODEFORCES-black?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=black)](https://codeforces.com/profile/priyanshudev)
+[![CodeChef](https://img.shields.io/badge/CODECHEF-white?style=for-the-badge&logo=codechef&logoColor=black&labelColor=white)](https://www.codechef.com/users/priyanshudev1)
+[![AtCoder](https://img.shields.io/badge/ATCODER-black?style=for-the-badge&logo=atcoder&logoColor=white&labelColor=black)](https://atcoder.jp/users/priyanshudev)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+[![HackerEarth](https://img.shields.io/badge/HACKEREARTH-white?style=for-the-badge&logo=hackerearth&logoColor=black&labelColor=white)](https://www.hackerearth.com/@priyanshudev)
+[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-black?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=black)](https://auth.geeksforgeeks.org/user/priyanshudev)
+[![Stack Overflow](https://img.shields.io/badge/STACKOVERFLOW-white?style=for-the-badge&logo=stackoverflow&logoColor=black&labelColor=white)](https://stackoverflow.com/users/priyanshu-dev)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## ⚡ TECHNOLOGY STACK
+
+<div align="center">
+<table>
+<tr>
+<td width="25%" align="center">
+
+### FRONTEND
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+
+</td>
+<td width="25%" align="center">
+
+### BACKEND
+![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=black)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
+
+</td>
+<td width="25%" align="center">
+
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-white?style=for-the-badge&logo=scikit-learn&logoColor=black)
+
+</td>
+<td width="25%" align="center">
+
+### TOOLS & CLOUD
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 PERFORMANCE METRICS
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+### GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudev&layout=compact&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff&langs_count=8" alt="Top Languages" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+### Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansudev&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333" alt="Activity Graph" width="100%"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🏆 COMPETITIVE PROGRAMMING ACHIEVEMENTS
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+### LeetCode Performance
+<img src="https://leetcard.jacoblin.cool/priyanshudev?theme=dark&font=source_code_pro&ext=contest&width=400" alt="LeetCode Stats"/>
+
+</td>
+<td width="50%" align="center">
+
+### Codeforces Rating
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=priyanshudev&theme=dark&disable_animations=false&show_icons=true&force_username=true&ring_color=ffffff&text_color=ffffff&bg_color=000000&title_color=ffffff&icon_color=ffffff&border_color=333333" alt="Codeforces Stats"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+
+
+</div>
+
+---
+
+## 🚀 CURRENT INITIATIVES
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔭 BUILDING
+```
+• Scalable Web Applications
+• Microservices Architecture  
+• Real-time Data Processing
+• AI-Powered Solutions
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🌱 LEARNING
+```
+• Advanced System Design
+• Cloud Native Technologies
+• Machine Learning Ops
+• Blockchain Development
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🏅 COMPETING
+```
+• Weekly Contest Participation
+• Algorithm Optimization
+• Data Structure Mastery
+• Problem Solving Speed
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 💼 COLLABORATION OPPORTUNITIES
+
+<div align="center">
+
+### OPEN TO DISCUSS
+
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTIONS-black?style=for-the-badge&logo=opensource&logoColor=white)
+![Mentoring](https://img.shields.io/badge/MENTORING-AVAILABLE-white?style=for-the-badge&logo=graduation-cap&logoColor=black)
+![Consulting](https://img.shields.io/badge/CONSULTING-PROJECTS-black?style=for-the-badge&logo=handshake&logoColor=white)
+
+
+
+</div>
+
+---
+
+## ☕ SUPPORT MY WORK
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT_MY_WORK-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/priyanshudev)
+
+### Your Support Enables
+```
+🔬 Research & Development    📚 Learning New Technologies
+🛠️ Open Source Projects     🎯 Community Contributions
+📝 Technical Content         🚀 Innovation & Experiments
+```
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=2000&color=888888&center=true&vCenter=true&width=800&lines=Thank+you+for+visiting+my+profile;Let's+build+something+amazing+together;Connect+with+me+for+collaboration+opportunities" alt="Footer Message"/>
+
+**© 2025 PRIYANSHU DEV** • **BUILDING THE FUTURE, ONE LINE OF CODE AT A TIME**
+
+[![Profile](https://img.shields.io/badge/⭐_FROM-PRIYANSHU_DEV-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyansudev)
+
 </div>
