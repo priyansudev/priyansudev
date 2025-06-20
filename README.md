@@ -21,6 +21,33 @@
 
 </div>
 
+---
+
+## BADGES
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+
+![LeetCode Badge](https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif)
+
+</td>
+<td width="33%" align="center">
+
+**MORE BADGES**  
+**COMING SOON**
+
+</td>
+<td width="33%" align="center">
+
+**MORE BADGES**  
+**COMING SOON**
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
