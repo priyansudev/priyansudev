@@ -2,9 +2,6 @@
 
 <div align="center">
 
-# PRIYANSHU DEV
-### SOFTWARE ENGINEER • FULL-STACK DEVELOPER • PROBLEM SOLVER
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&lines=Building+Digital+Experiences;Crafting+Elegant+Solutions;Solving+Complex+Problems;Innovating+Through+Code" alt="Dynamic Typing"/>
 
 </div>
