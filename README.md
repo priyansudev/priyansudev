@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Priyanshu%20Dev&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer&descAlignY=55"/>
+
 <div align="center">
 
 # PRIYANSHU DEV
@@ -280,3 +282,5 @@
 [![Profile](https://img.shields.io/badge/⭐_FROM-PRIYANSHU_DEV-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyansudev)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn&reversal=true"/>
