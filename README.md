@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Priyanshu%20Dev&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer&descAlignY=55"/>
-<div align="center">
+![My Banner](./assets/banner.jpg)
   
 ---
   
