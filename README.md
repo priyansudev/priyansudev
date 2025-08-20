@@ -2,11 +2,8 @@
   
 ---
   
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&lines=Building+Digital+Experiences;Crafting+Elegant+Solutions;Solving+Complex+Problems;Innovating+Through+Code" alt="Dynamic Typing"/>
 
-</div>
 
----
 
 <div align="center">
   
@@ -191,49 +188,7 @@
 
 ---
 
-## CURRENT INITIATIVES
 
-<div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
-
-### BUILDING
-```
-• Scalable Web Applications
-• Microservices Architecture  
-• Real-time Data Processing
-• AI-Powered Solutions
-```
-
-</td>
-<td width="33%" align="center">
-
-### LEARNING
-```
-• Advanced System Design
-• Cloud Native Technologies
-• Machine Learning Ops
-• Blockchain Development
-```
-
-</td>
-<td width="33%" align="center">
-
-### COMPETING
-```
-• Weekly Contest Participation
-• Algorithm Optimization
-• Data Structure Mastery
-• Problem Solving Speed
-```
-
-</td>
-</tr>
-</table>
-</div>
-
----
 
 ## COLLABORATION OPPORTUNITIES
 
@@ -257,22 +212,13 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT_MY_WORK-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/priyanshudev)
 
-### Your Support Enables
-```
- Research & Development     Learning New Technologies
- Open Source Projects      Community Contributions
- Technical Content          Innovation & Experiments
-```
+
 
 </div>
 
 ---
 
 <div align="center">
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=2000&color=888888&center=true&vCenter=true&width=800&lines=Thank+you+for+visiting+my+profile;Let's+build+something+amazing+together;Connect+with+me+for+collaboration+opportunities" alt="Footer Message"/>
 
 **© 2025 PRIYANSHU DEV** • **BUILDING THE FUTURE, ONE LINE OF CODE AT A TIME**
 
