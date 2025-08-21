@@ -1,4 +1,4 @@
-![My Banner](./assets/banner.jpg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=PRIYANSHU%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20DEVELOPER&descSize=20&descAlignY=55&descAlign=center"/>
   
 ---
   
