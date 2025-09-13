@@ -212,6 +212,9 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT_MY_WORK-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/priyanshudev)
 
+[![Ethereum](https://img.shields.io/badge/DONATE-ETHEREUM-black?style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/address/0xE573D2e7d950bcb64A722a491C96118adD2D6FFf)
+
+</div>
 
 
 </div>
