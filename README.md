@@ -1,13 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=PRIYANSHU%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20DEVELOPER&descSize=20&descAlignY=55&descAlign=center"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=PRIYANSHU%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER&descSize=20&descAlignY=55&descAlign=center"/>
   
 ---
   
-
-
-
 <div align="center">
   
-
 ![GitHub followers](https://img.shields.io/github/followers/priyansudev?color=black&style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS)
 ![GitHub stars](https://img.shields.io/github/stars/priyansudev?color=white&style=for-the-badge&logo=star&logoColor=black&label=STARS)
 
@@ -111,10 +107,11 @@
 </td>
 <td width="25%" align="center">
 
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-white?style=for-the-badge&logo=scikit-learn&logoColor=black)
+### ELECTRONICS & HARDWARE
+![Arduino](https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-white?style=for-the-badge&logoColor=black)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-black?style=for-the-badge&logoColor=white)
 
 </td>
 <td width="25%" align="center">
@@ -142,9 +139,10 @@
 <td width="50%" align="center">
 
 ### GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudev&layout=compact&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff&langs_count=8" alt="Top Languages" width="100%"/>
+
+<img src="https://ghchart.rshah.org/ffffff/priyansudev" width="100%">
+
 
 </td>
 <td width="50%" align="center">
@@ -182,13 +180,9 @@
 
 <div align="center">
 
-
-
 </div>
 
 ---
-
-
 
 ## COLLABORATION OPPORTUNITIES
 
@@ -199,8 +193,6 @@
 ![Open Source](https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTIONS-black?style=for-the-badge&logo=opensource&logoColor=white)
 ![Mentoring](https://img.shields.io/badge/MENTORING-AVAILABLE-white?style=for-the-badge&logo=graduation-cap&logoColor=black)
 ![Consulting](https://img.shields.io/badge/CONSULTING-PROJECTS-black?style=for-the-badge&logo=handshake&logoColor=white)
-
-
 
 </div>
 
@@ -213,9 +205,6 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT_MY_WORK-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/priyanshudev)
 
 [![Ethereum](https://img.shields.io/badge/DONATE-ETHEREUM-black?style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/address/0xE573D2e7d950bcb64A722a491C96118adD2D6FFf)
-
-</div>
-
 
 </div>
 
