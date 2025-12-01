@@ -64,6 +64,7 @@
 [![Codeforces](https://img.shields.io/badge/CODEFORCES-black?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=black)](https://codeforces.com/profile/priyanshudev)
 [![CodeChef](https://img.shields.io/badge/CODECHEF-white?style=for-the-badge&logo=codechef&logoColor=black&labelColor=white)](https://www.codechef.com/users/priyanshudev1)
 [![AtCoder](https://img.shields.io/badge/ATCODER-black?style=for-the-badge&logo=atcoder&logoColor=white&labelColor=black)](https://atcoder.jp/users/priyanshudev)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-white?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=white)](https://www.hackerrank.com/priyanshudev)
 
 </td>
 </tr>
