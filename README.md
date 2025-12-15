@@ -90,40 +90,61 @@
 <td width="25%" align="center">
 
 ### FRONTEND
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-white?style=flat&logo=next.js&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-black?style=flat&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-white?style=flat&logo=tailwind-css&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-white?style=flat&logo=figma&logoColor=black)
 
 </td>
 <td width="25%" align="center">
 
 ### BACKEND
-![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=black)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-white?style=flat&logo=express&logoColor=black)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-white?style=flat&logo=django&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-white?style=flat&logo=.net&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat&logo=graphql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-white?style=flat&logo=cplusplus&logoColor=black)
+![Java](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk&logoColor=white)
 
 </td>
 <td width="25%" align="center">
 
-### ELECTRONICS & HARDWARE
-![Arduino](https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-white?style=for-the-badge&logoColor=black)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-black?style=for-the-badge&logoColor=white)
+### DATABASE & CLOUD
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-black?style=flat&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-white?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-white?style=flat&logo=microsoft-azure&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=flat&logo=kubernetes&logoColor=black)
 
 </td>
 <td width="25%" align="center">
 
-### TOOLS & CLOUD
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+### TOOLS & OTHERS
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)
+![GitLab](https://img.shields.io/badge/GitLab-black?style=flat&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-white?style=flat&logo=visual-studio-code&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=flat&logo=intellij-idea&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-white?style=flat&logo=pytorch&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-white?style=flat&logo=postman&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-black?style=flat&logo=selenium&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-white?style=flat&logo=arduino&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-white?style=flat&logo=gnu-bash&logoColor=black)
 
 </td>
 </tr>
@@ -219,4 +240,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn&reversal=true"/>**
