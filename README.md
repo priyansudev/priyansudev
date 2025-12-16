@@ -1,16 +1,15 @@
-<img src="assets/banner.png" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=PRIYANSHU%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER&descSize=20&descAlignY=55&descAlign=center"/>
+  
 ---
   
 <div align="center">
   
-![GitHub followers](https://img.shields.io/github/followers/priyansudev?color=black&style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/priyansudev?color=white&style=for-the-badge&logo=star&logoColor=black&label=STARS)
+![GitHub followers](https://img.shields.io/github/followers/priyansudev?color=black&style=flat&logo=github&logoColor=white&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/priyansudev?color=white&style=flat&logo=star&logoColor=black&label=STARS)
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyansudev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_OPPORTUNITIES-black?style=for-the-badge&logo=circle&logoColor=white)
-![Focus](https://img.shields.io/badge/FOCUS-FULL_STACK_DEVELOPMENT-white?style=for-the-badge&logo=target&logoColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=priyansudev&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_OPPORTUNITIES-black?style=flat&logo=circle&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-FULL_STACK_DEVELOPMENT-white?style=flat&logo=target&logoColor=black)
 
 </div>
 
@@ -52,29 +51,29 @@
 <td width="50%" align="center">
 
 ### Professional Networks
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/priyansudev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/priyanshudev1)
-[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/priyansudev)
-[![Discord](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/851812658356813824)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white&labelColor=000000)
+![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white&labelColor=000000)
+![Twitter](https://img.shields.io/badge/TWITTER-000000?style=flat&logo=twitter&logoColor=white&labelColor=000000)
+![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat&logo=discord&logoColor=white&labelColor=000000)
 
 </td>
 <td width="50%" align="center">
 
 ### Competitive Programming Arsenal
-[![LeetCode](https://img.shields.io/badge/LEETCODE-white?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=white)](https://leetcode.com/priyanshudev)
-[![Codeforces](https://img.shields.io/badge/CODEFORCES-black?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=black)](https://codeforces.com/profile/priyanshudev)
-[![CodeChef](https://img.shields.io/badge/CODECHEF-white?style=for-the-badge&logo=codechef&logoColor=black&labelColor=white)](https://www.codechef.com/users/priyanshudev1)
-[![AtCoder](https://img.shields.io/badge/ATCODER-black?style=for-the-badge&logo=atcoder&logoColor=white&labelColor=black)](https://atcoder.jp/users/priyanshudev)
-[![HackerRank](https://img.shields.io/badge/HACKERRANK-white?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=white)](https://www.hackerrank.com/priyanshudev)
+![LeetCode](https://img.shields.io/badge/LEETCODE-white?style=flat&logo=leetcode&logoColor=black&labelColor=white)
+![Codeforces](https://img.shields.io/badge/CODEFORCES-black?style=flat&logo=codeforces&logoColor=white&labelColor=black)
+![CodeChef](https://img.shields.io/badge/CODECHEF-white?style=flat&logo=codechef&logoColor=black&labelColor=white)
+![AtCoder](https://img.shields.io/badge/ATCODER-black?style=flat&logo=atcoder&logoColor=white&labelColor=black)
+![HackerRank](https://img.shields.io/badge/HACKERRANK-white?style=flat&logo=hackerrank&logoColor=black&labelColor=white)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-[![HackerEarth](https://img.shields.io/badge/HACKEREARTH-white?style=for-the-badge&logo=hackerearth&logoColor=black&labelColor=white)](https://www.hackerearth.com/@priyanshudev)
-[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-black?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=black)](https://auth.geeksforgeeks.org/user/priyanshudev)
-[![Stack Overflow](https://img.shields.io/badge/STACKOVERFLOW-white?style=for-the-badge&logo=stackoverflow&logoColor=black&labelColor=white)](https://stackoverflow.com/users/priyanshu-dev)
+![HackerEarth](https://img.shields.io/badge/HACKEREARTH-white?style=flat&logo=hackerearth&logoColor=black&labelColor=white)
+![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-black?style=flat&logo=geeksforgeeks&logoColor=white&labelColor=black)
+![Stack Overflow](https://img.shields.io/badge/STACKOVERFLOW-white?style=flat&logo=stackoverflow&logoColor=black&labelColor=white)
 
 </td>
 </tr>
@@ -188,7 +187,8 @@
 <td width="50%" align="center">
 
 ### LeetCode Performance
-<img src="https://leetcard.jacoblin.cool/priyanshudev?theme=dark&font=source_code_pro&ext=contest&width=400" alt="LeetCode Stats"/>
+[![HackerRank](https://img.shields.io/badge/HackerRank-priyanshudev-000000?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/priyanshudev)
+
 
 </td>
 <td width="50%" align="center">
@@ -213,9 +213,9 @@
 
 ### OPEN TO DISCUSS
 
-![Open Source](https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTIONS-black?style=for-the-badge&logo=opensource&logoColor=white)
-![Mentoring](https://img.shields.io/badge/MENTORING-AVAILABLE-white?style=for-the-badge&logo=graduation-cap&logoColor=black)
-![Consulting](https://img.shields.io/badge/CONSULTING-PROJECTS-black?style=for-the-badge&logo=handshake&logoColor=white)
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTIONS-black?style=flat&logo=opensource&logoColor=white)
+![Mentoring](https://img.shields.io/badge/MENTORING-AVAILABLE-white?style=flat&logo=graduation-cap&logoColor=black)
+![Consulting](https://img.shields.io/badge/CONSULTING-PROJECTS-black?style=flat&logo=handshake&logoColor=white)
 
 </div>
 
@@ -225,9 +225,9 @@
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT_MY_WORK-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/priyanshudev)
+![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT_MY_WORK-black?style=flat&logo=buy-me-a-coffee&logoColor=white)
 
-[![Ethereum](https://img.shields.io/badge/DONATE-ETHEREUM-black?style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/address/0xE573D2e7d950bcb64A722a491C96118adD2D6FFf)
+![Ethereum](https://img.shields.io/badge/DONATE-ETHEREUM-black?style=flat&logo=ethereum&logoColor=white)
 
 </div>
 
@@ -237,8 +237,14 @@
 
 **© 2025 PRIYANSHU DEV** • **BUILDING THE FUTURE, ONE LINE OF CODE AT A TIME**
 
-[![Profile](https://img.shields.io/badge/⭐_FROM-PRIYANSHU_DEV-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyansudev)
+![Profile](https://img.shields.io/badge/⭐_FROM-PRIYANSHU_DEV-black?style=flat&logo=github&logoColor=white)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn&reversal=true"/>**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn&reversal=true"/>
+
+
+
+
+
+"ye github readme hai profile md isko mai minimal aur aesthetic bana na chahta hu let me show u some reference image me hai"
