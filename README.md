@@ -3,8 +3,6 @@
   I'm <b>Priyanshu Dev <br/> (Engineering Student & Developer)</b>
 </h1>
 
-<!-- Optional subtitle -->
-<!-- <h2 align="center"><b>Electronics Engineering Student | Coding & Tech Enthusiast</b></h2> -->
 
 <h2 align="center">
   <b>Electronics Engineering Student | Aspiring Software Engineer</b>
