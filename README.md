@@ -58,7 +58,7 @@ Cats • Minimal setups • Thoughtful work
 </td>
 <td width="30%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="220" />
+<img src="https://i.pinimg.com/originals/2d/55/0e/2d550e48e5fabf33543b51e4d8ccb335.gif" width="220" height="220" />
 
 </td>
 </tr>
