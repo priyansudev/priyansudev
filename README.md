@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=PRIYANSHU%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER&descSize=20&descAlignY=55&descAlign=center"/>
-  
+<img src="assets/banner.png" />
+
+
 ---
   
 <div align="center">
