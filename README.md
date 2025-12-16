@@ -45,33 +45,27 @@ Building projects & improving skills daily |
 </p>
 
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
----
 ## About Me
 
 <a>
   <img 
     align="right" 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    width="260" 
-    height="260" 
+    width="220" 
+    height="220" 
   />
 </a>
 
-- 👋 **Priyanshu Dev (Ansh)** — Electronics Engineering Student & Developer  
-- 🧠 Interested in **DSA & Problem Solving**, improving logic and consistency every day  
-- 👨‍💻 Exploring **Python, AI/ML, Data Science & Full-Stack Development**  
-- 🐧 Daily Linux (Fedora) user — love minimal, clean and practical setups  
-- 🧩 Practice-focused learner on **LeetCode, HackerRank, GFG & CodeStudio**  
-- 🌱 Currently building projects to strengthen fundamentals and real-world skills  
-- 🧪 Curious about **AI systems, automation & intelligent tools**  
-- 🌍 Long-term goal: grow as a software engineer and work globally  
-- 📚 Also experimenting with **tech content & writing**  
-- ⚡ For fun: **music, philosophy, late-night thinking & series/movies**
+I’m **Priyanshu Dev**, an **Electronics Engineering student** with a strong interest in **software development and problem solving**.
 
----
+My focus areas include **DSA**, **full-stack development**, and **Linux-based systems**. I also explore **hardware concepts**, **blockchain fundamentals**, and occasionally work on **UI design using Figma**.
+
+I enjoy building clean, practical projects that strengthen fundamentals rather than chasing trends.  
+Long-term, I aim to work as a software engineer in **Europe**.  
+Outside tech, I like **cats**, minimal setups, and thoughtful work.
 
 
-## ❤️ Competitive Programming & DSA
+## Competitive Programming & DSA
 
 <p align="left">
 
@@ -105,7 +99,7 @@ Building projects & improving skills daily |
 ---
 ## All DSA Badges @LeetCode
 
-<img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="40px"></img>
 
 
 ---
@@ -166,7 +160,7 @@ Building projects & improving skills daily |
 
 ---
 ---
-## 🛠️ Project Zone
+## Project Zone
 
 > 🚧 Under Construction  
 > Currently working on personal projects and learning by building.
@@ -200,7 +194,7 @@ Building projects & improving skills daily |
 
 <br/>
 
-## 📈 Graph
+## Graph
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
@@ -209,7 +203,7 @@ Building projects & improving skills daily |
 </p>
 
 
-## 🌐 Social & Content Platforms
+## Social & Content Platforms
 
 <p align="left">
 
