@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" />
+</p>
+
+
 # 🐾 Hi, I'm Priyanshu Dev
 
 ### Electronics Engineering Student | Aspiring Software Engineer
