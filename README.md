@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Priyanshu Dev
+# 🐾 Hi, I'm Priyanshu Dev
 
 ### Electronics Engineering Student | Aspiring Software Engineer
 
