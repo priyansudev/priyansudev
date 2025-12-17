@@ -1,441 +1,270 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" />
-</p>
+<div align="center">
 
+# PRIYANSHU DEV
 
-# 🐾 Hi, I'm Priyanshu Dev
+**Electronics Engineering Student • Software Engineer • Problem Solver**
 
-### Electronics Engineering Student | Aspiring Software Engineer
+Python • JavaScript • C/C++ • Full Stack • Linux • AI/ML
 
-**Engineering Student (ECE)** • Coding & Problem Solving Enthusiast • Focused on **DSA, Python, AI/ML & Full Stack Development** • Linux (Fedora) User • Building projects & improving skills daily
+</div>
 
----
-
-## 🔗 Connect With Me
+## CONNECT
 
 <table>
 <tr>
+<td>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshudev1/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyansudev)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/priyanshudev.bsky.social)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/priyanshudevs)
+
+</td>
 <td>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@priyanshu.dev1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshudev1/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyansudev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/priyanshudevs)
-
-</td>
-<td>
-
-[![Instagram](https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyanshudevs)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/priyanshudev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.dev.in@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyanshudevs)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.dev.in@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17372893)
 
 </td>
 </tr>
 </table>
 
----
-
-## 👨‍💻 About Me
+## ABOUT
 
 <table>
 <tr>
-<td width="70%">
+<td width="60%">
 
-I'm **Priyanshu Dev**, an **Electronics Engineering student** with a strong interest in **software development and problem solving**.
+Electronics Engineering student focused on software development and algorithmic problem solving.
 
-**Focus Areas:**
-- Data Structures & Algorithms (DSA)
-- Full-stack development
-- Linux-based systems
-- Hardware concepts
-- Blockchain fundamentals
-- UI design using Figma
+**Core Focus**
+- Data Structures & Algorithms
+- Full Stack Development (MERN)
+- System Design & Architecture
+- Linux System Administration
+- Blockchain Technology
+- UI/UX Design
 
-**Philosophy:**
-I enjoy building clean, practical projects that strengthen fundamentals rather than chasing trends.
-
-**Long-term Goal:**
-Work as a software engineer in **Europe**
-
-**Outside Tech:**
-Cats • Minimal setups • Thoughtful work
+**Current Work**  
+Building scalable applications while mastering computer science fundamentals. Writing clean, efficient code that solves real problems.
 
 </td>
-<td width="30%">
+<td width="40%">
 
-<img src="https://i.pinimg.com/originals/2d/55/0e/2d550e48e5fabf33543b51e4d8ccb335.gif" width="220" height="220" />
+**Environment**
+```
+OS: Fedora Linux
+Shell: Bash
+Editor: VS Code
+Version Control: Git
+```
+
+**Interests**
+```
+> DSA
+> Open Source
+> System Design
+> WEB3
+> ELECTRONICS
+```
 
 </td>
 </tr>
 </table>
 
----
-
-## 🏆 Competitive Programming Profiles
+## COMPETITIVE PROGRAMMING
 
 <table>
 <tr>
 <td align="center" width="16.66%">
 
-<a href="https://www.leetcode.com/priyanshudev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/priyanshudev)
 
 **LeetCode**
 
 </td>
 <td align="center" width="16.66%">
 
-<a href="https://codeforces.com/profile/priyanshudev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" width="40" />
-</a>
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/priyanshudev)
 
 **Codeforces**
 
 </td>
 <td align="center" width="16.66%">
 
-<a href="https://www.codechef.com/users/priyanshudev" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" width="40" />
-</a>
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/priyanshudev)
 
 **CodeChef**
 
 </td>
 <td align="center" width="16.66%">
 
-<a href="https://www.hackerrank.com/priyanshudev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40" />
-</a>
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/priyanshudev)
 
 **HackerRank**
 
 </td>
 <td align="center" width="16.66%">
 
-<a href="https://www.hackerearth.com/priyanshudev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="40" width="40" />
-</a>
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/priyanshudev)
 
 **HackerEarth**
 
 </td>
 <td align="center" width="16.66%">
 
-<a href="https://auth.geeksforgeeks.org/user/priyanshudev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="40" />
-</a>
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/priyanshudev)
 
-**GeeksforGeeks**
+**GFG**
 
 </td>
 </tr>
 </table>
 
----
-
-## 🎯 LeetCode Achievements
-
-<img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="40px" /> 
-
----
-
-## 💻 Tech Stack & Tools
-
-### **Languages**
+## TECH STACK
 
 <table>
 <tr>
-<td align="center" width="14.28%">
+<td valign="top" width="33%">
 
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" />
+**Languages**
 
-**Python**
-
-</td>
-<td align="center" width="14.28%">
-
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" />
-
-**JavaScript**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </td>
-<td align="center" width="14.28%">
+<td valign="top" width="33%">
 
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" />
+**Frameworks**
 
-**C**
-
-</td>
-<td align="center" width="14.28%">
-
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" />
-
-**C++**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </td>
-<td align="center" width="14.28%">
+<td valign="top" width="33%">
 
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+**Tools**
 
-**HTML**
-
-</td>
-<td align="center" width="14.28%">
-
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
-
-**CSS**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-### **Frameworks & Libraries**
+## PROJECTS
+
+**Coming Soon**
+
+Currently working on personal projects. Will be added here once ready for showcase.
+
+## GITHUB STATISTICS
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
-
-**Node.js**
+<img src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
 
 </td>
-<td align="center" width="20%">
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" />
-
-**Express.js**
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
-
-**Tailwind CSS**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudev&langs_count=8&count_private=true&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
 </table>
 
-### **Development Tools**
+## CONTRIBUTIONS
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+
+## COMMUNITY
 
 <table>
 <tr>
 <td align="center" width="20%">
 
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
-
-**Linux**
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
-
-**Git**
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
-
-**GitHub**
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
-
-**VS Code**
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" />
-
-**Figma**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Project Zone
-
-> 🚧 **Under Construction**  
-> Currently working on personal projects and learning by building.
-
----
-## 📊 GitHub Statistics
-
-<table align="center">
-<tr>
-
-<td width="50%" align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff" 
-    alt="GitHub Stats" 
-  />
-</td>
-
-<td width="50%" align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" 
-    alt="Top Languages" 
-  />
-</td>
-
-</tr>
-</table>
-
-
----
-
-## 🐍 Contribution Graph
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
----
-
-## 🌐 Social & Content Platforms
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-<a href="https://codepen.io/priyanshu-dev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="40" width="40" />
-</a>
-
-**CodePen**
-
-</td>
-<td align="center" width="25%">
-
-<a href="https://dev.to/priyanshudev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="40" width="40" />
-</a>
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/priyanshudev)
 
 **Dev.to**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-<a href="https://stackoverflow.com/users/17372893" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="40" width="40" />
-</a>
-
-**Stack Overflow**
-
-</td>
-<td align="center" width="25%">
-
-<a href="https://kaggle.com/priyanshudev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" width="40" />
-</a>
-
-**Kaggle**
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-<a href="https://hashnode.com/@prdev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="40" width="40" />
-</a>
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prdev)
 
 **Hashnode**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-<a href="https://twitter.com/priyanshudevs" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" />
-</a>
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/priyanshudev)
 
-**Twitter**
+**Kaggle**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-<a href="https://linkedin.com/in/priyanshudev1" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
-</a>
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/priyanshu-dev)
 
-**LinkedIn**
+**CodePen**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-<a href="https://instagram.com/priyanshudevs" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
-</a>
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@priyanshudev)
 
-**Instagram**
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-<a href="https://www.youtube.com/c/priyanshu.dev1" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="40" />
-</a>
-
-**YouTube**
+**Medium**
 
 </td>
 </tr>
 </table>
 
----
+## SUPPORT
 
-## 💖 Support My Work
-
-<table align="center">
+<table>
 <tr>
 <td align="center" width="50%">
 
-<a href="https://www.buymeacoffee.com/priyanshudev" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black" height="30"/>
-</a>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/priyanshudev)
 
-  <sub>Support my work</sub>
-</a>
+**Coffee**
 
 </td>
-
 <td align="center" width="50%">
 
-<a href="https://etherscan.io/address/0xE573D2e7d950bcb64A722a491C96118adD2D6FFf" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ethereum.svg" width="40" />
-  <br/>
-  <sub>Donate ETH</sub>
-</a>
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/address/0xE573D2e7d950bcb64A722a491C96118adD2D6FFf)
+
+**Crypto**
 
 </td>
 </tr>
 </table>
-
----
 
 <div align="center">
 
-<b>© 2025 Priyanshu Dev</b>  
-<sub>Building the future, one line of code at a time</sub>
+**ETH Address:** `0xE573D2e7d950bcb64A722a491C96118adD2D6FFf`
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=priyansudev&label=Profile%20Views&color=667eea&style=flat" />
+<div align="center">
 
-<br/><br/>
+![Profile Views](https://komarev.com/ghpvc/?username=priyansudev&label=Profile+Views&color=58A6FF&style=flat-square)
 
-<sub>
-From <a href="https://github.com/priyansudev">Priyanshu Dev</a> with care
-</sub>
+**2025 PRIYANSHU DEV**
+
+Building the future, one commit at a time
 
 </div>
