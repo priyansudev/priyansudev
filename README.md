@@ -74,6 +74,24 @@ Version Control: Git
 </tr>
 </table>
 
+## FREELANCE SERVICES
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017046b57563d5878f)
+
+**Available for Web Development Projects**
+
+💼 Full Stack Development • React & Node.js • UI/UX Design • WordPress • SEO Optimization
+
+📧 **Hire Me:** [View Upwork Profile](https://www.upwork.com/freelancers/~017046b57563d5878f)
+
+</td>
+</tr>
+</table>
+
 ## COMPETITIVE PROGRAMMING
 
 <table>
