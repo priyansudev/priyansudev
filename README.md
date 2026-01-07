@@ -16,6 +16,7 @@ Python • JavaScript • C/C++ • Full Stack • Linux • AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshudev1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyansudev)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/priyanshudev)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/priyanshudev.bsky.social)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/priyanshudevs)
 
@@ -24,6 +25,7 @@ Python • JavaScript • C/C++ • Full Stack • Linux • AI/ML
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@priyanshu.dev1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyanshudevs)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/priyanshudev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.dev.in@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17372893)
 
@@ -78,15 +80,33 @@ Version Control: Git
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017046b57563d5878f)
 
-**Available for Web Development Projects**
+**Upwork**
 
-💼 Full Stack Development • React & Node.js • UI/UX Design • WordPress • SEO Optimization
+Full Stack Development • React & Node.js
 
-📧 **Hire Me:** [View Upwork Profile](https://www.upwork.com/freelancers/~017046b57563d5878f)
+📧 [View Profile](https://www.upwork.com/freelancers/~017046b57563d5878f)
+
+</td>
+<td align="center" width="50%">
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/priyanshu_9292)
+
+**Fiverr**
+
+UI/UX Design • WordPress • SEO
+
+📧 [View Profile](https://www.fiverr.com/priyanshu_9292)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+💼 **Available for Web Development Projects**
 
 </td>
 </tr>
@@ -193,12 +213,14 @@ Currently working on personal projects. Will be added here once ready for showca
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyansudev&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=priyansudev&show_icons=true&theme=dark)
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudev&langs_count=8&count_private=true&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
+
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=priyansudev&layout=compact&theme=dark)
 
 </td>
 </tr>
@@ -212,13 +234,6 @@ Currently working on personal projects. Will be added here once ready for showca
 
 <table>
 <tr>
-<td align="center" width="20%">
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/priyanshudev)
-
-**Dev.to**
-
-</td>
 <td align="center" width="20%">
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prdev)
@@ -245,6 +260,13 @@ Currently working on personal projects. Will be added here once ready for showca
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@priyanshudev)
 
 **Medium**
+
+</td>
+<td align="center" width="20%">
+
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/priyanshudev)
+
+**Reddit**
 
 </td>
 </tr>
